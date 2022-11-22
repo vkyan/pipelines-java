@@ -1,5 +1,6 @@
 
 # Contributing
+[![Build Status](https://dev.azure.com/Be365/Be365Proj/_apis/build/status/vkyan.pipelines-java?branchName=main)](https://dev.azure.com/Be365/Be365Proj/_build/latest?definitionId=25&branchName=main)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
